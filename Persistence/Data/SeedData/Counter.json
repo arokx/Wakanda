@@ -1,0 +1,4 @@
+[
+    { "Id": 1, "CounterNumber": 1, "ServiceProviderId": 1 },
+    { "Id": 2, "CounterNumber": 2, "ServiceProviderId": 2 }
+  ]

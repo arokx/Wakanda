@@ -1,0 +1,4 @@
+[
+    { "Id": 1, "CounterId": 1, "TokenId": 1, "ServingStatus": "Completed" },
+    { "Id": 2, "CounterId": 2, "TokenId": 2, "ServingStatus": "In Progress" }
+  ]

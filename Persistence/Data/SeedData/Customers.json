@@ -1,0 +1,23 @@
+[
+    { "Id": 1, "Name": "Customer 1", "ArrivalTime": "2024-02-09T08:00:00", "ServiceCategoryId": 1 },
+    { "Id": 2, "Name": "Customer 2", "ArrivalTime": "2024-02-09T08:15:00", "ServiceCategoryId": 2 },
+  {
+    "Id": 3,
+    "Name": "Customer 3",
+    "ArrivalTime": "2024-02-09T09:30:00",
+    "ServiceCategoryId": 3
+  },
+  {
+    "Id": 4,
+    "Name": "Customer 3",
+    "ArrivalTime": "2024-02-09T08:45:00",
+    "ServiceCategoryId": 1
+  },
+  {
+    "Id": 5,
+    "Name": "Customer 3",
+    "ArrivalTime": "2024-02-09T09:10:00",
+    "ServiceCategoryId": 2
+  }
+
+]

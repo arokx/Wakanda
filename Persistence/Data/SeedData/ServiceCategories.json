@@ -1,0 +1,5 @@
+[
+    { "Id": 1, "CategoryName": "Retirees" },
+    { "Id": 2, "CategoryName": "Unemployed" },
+    { "Id": 3, "CategoryName": "People with Disabilities" }
+  ]
